@@ -1,4 +1,4 @@
-# 🦞 OpenClaw 完整部署教程：从零开始在 ARM 开发板上搭建你的 AI 助手
+# 🦞 RDK-OpenClaw 完整部署教程：从零开始在 ARM 开发板上搭建你的 AI 助手
 
 > **适用人群**：零基础新手 / Linux 初学者  
 > **部署环境**：D-Robotics RDK S100（ARM aarch64）+ Ubuntu 22.04  
